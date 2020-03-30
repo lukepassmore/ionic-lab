@@ -1,5 +1,7 @@
 {
   "name": "gainiac",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
